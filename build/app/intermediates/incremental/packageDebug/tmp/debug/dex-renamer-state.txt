@@ -1,0 +1,4 @@
+#Sat Jun 27 02:57:58 TRT 2020
+base.0=/home/berkay/KOD/KişiselFikirlerÜzerine/flutter/training/firstAppSecond/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
